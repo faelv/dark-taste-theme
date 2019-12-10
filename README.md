@@ -1,6 +1,6 @@
-# Good Taste Theme
+# Dark Taste Theme
 
-If you are like me and don't like dark themes, this light theme is for you. Sober and carefully chosen colors.
+A dark theme variant forked from [Good Taste Theme](https://github.com/faelv/good-taste-theme).
 
 Supported languages:
 - PHP
@@ -15,11 +15,9 @@ Supported languages:
 - Sass / SCSS
 - Go
 
-This theme was inspired by [Netbeans Light Theme by Ondrej Brejla](https://github.com/obrejla/vscode-netbeans-light-theme)
-
 ![Window Sample](./images/sample-window.png)
 
-To install type `ext install faelv.good-taste-theme` in VS Code's Quick Open (Ctrl+P) and hit Enter, or search for Good
+To install type `ext install faelv.dark-taste-theme` in VS Code's Quick Open (Ctrl+P) and hit Enter, or search for Good
 Taste Theme.
 
 Font is [**Fira Mono**](https://mozilla.github.io/Fira/)

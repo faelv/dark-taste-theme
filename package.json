@@ -1,13 +1,13 @@
 {
-    "name": "good-taste-theme",
-    "displayName": "Good Taste Theme",
-    "description": "A light theme for those with a good taste",
-    "version": "2.0.5",
+    "name": "dark-taste-theme",
+    "displayName": "Dark Taste Theme",
+    "description": "A dark theme for those with a good taste",
+    "version": "1.0.0",
     "publisher": "faelv",
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/faelv/good-taste-theme.git"
+        "url": "https://github.com/faelv/dark-taste-theme.git"
     },
     "engines": {
         "vscode": "^1.9.0"
@@ -16,13 +16,13 @@
         "Themes"
     ],
     "keywords": [
-        "light", "theme", "php", "javascript", "go", "html", "react"
+        "dark", "theme", "php", "javascript", "go", "html", "react"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Good Taste",
-                "uiTheme": "vs",
+                "label": "Dark Taste",
+                "uiTheme": "vs-dark",
                 "path": "./themes/GoodTaste.color-theme.json"
             }
         ],
