@@ -17,7 +17,7 @@ Supported languages:
 
 ![Window Sample](./images/sample-window.png)
 
-To install type `ext install faelv.dark-taste-theme` in VS Code's Quick Open (Ctrl+P) and hit Enter, or search for Good
+To install type `ext install faelv.dark-taste-theme` in VS Code's Quick Open (Ctrl+P) and hit Enter, or search for Dark
 Taste Theme.
 
 Font is [**Fira Mono**](https://mozilla.github.io/Fira/)
@@ -33,17 +33,5 @@ Font is [**Fira Mono**](https://mozilla.github.io/Fira/)
 ## JSX / React
 
 ![JSX Sample](./images/sample-jsx.png)
-
-## HTML
-
-![HTML Sample](./images/sample-html.png)
-
-## CSS
-
-![CSS Sample](./images/sample-css.png)
-
-## JSON
-
-![JSON Sample](./images/sample-json.png)
 
 **I hope you like it**
