@@ -115,10 +115,6 @@
 		{
 			"name": "NoneBold",
 			"scope": [
-				"variable.other.php",
-				"variable.language.php",
-				"variable.other.global.php",
-				"variable.other.global.safer.php",
 				"entity.name.function.go",
 				"entity.name.type.go",
 				"variable.scss",
@@ -205,11 +201,15 @@
 				// "meta.method.declaration.tsx storage.type",
 				"keyword.control.at-rule.media.css",
 				"variable.language.this.php",
-				"storage.modifier.reference.php"
+				"storage.modifier.reference.php",
+				"variable.other.php",
+				"variable.language.php",
+				"variable.other.global.php",
+				"variable.other.global.safer.php"
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#d7d6d5"
+				"foreground": "#bcbbba"
 			}
 		},
 		{
