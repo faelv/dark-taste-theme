@@ -381,7 +381,6 @@
 		{
 			"name": "DarkGrayItalic",
 			"scope": [
-				"constant.numeric.css keyword.other",
 				"keyword.other.phpdoc.php",
 				"meta.other.type.phpdoc.php",
 				"storage.type.class.jsdoc",
@@ -442,7 +441,7 @@
 				"source.tsx keyword.operator.expression"
 			],
 			"settings": {
-				"foreground": "#ae71d1",
+				"foreground": "#cc9ecb",
 				"fontStyle": ""
 			}
 		},
@@ -454,7 +453,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#ada6a6"
+				"foreground": "#8b8686"
 			}
 		},
 		{
@@ -470,7 +469,7 @@
 				"source.sql comments"
 			],
 			"settings": {
-				"foreground": "#ada6a6",
+				"foreground": "#8b8686",
 				"fontStyle": ""
 			}
 		},
@@ -527,7 +526,7 @@
 				"string.regexp.js keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#cc9ecb",
+				"foreground": "#ae71d1",
 				"fontStyle": ""
 			}
 		},
@@ -599,6 +598,16 @@
 			"settings": {
 				"foreground": "#f7818b",
 				"fontStyle": ""
+			}
+		},
+		{
+			"name": "LightRedItalic",
+			"scope": [
+				"constant.numeric.css keyword.other"
+			],
+			"settings": {
+				"foreground": "#f7818b",
+				"fontStyle": "italic"
 			}
 		}
 	]
