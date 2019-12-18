@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.3]
+- Adjusted selection background color
+- Adjusted contrast for entities in dark green
+- Updated README
+
 ## [1.0.2]
 - Adjusted contrast for entities in bold
 

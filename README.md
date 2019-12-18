@@ -1,37 +1,45 @@
 # Dark Taste Theme
 
-A dark theme variant forked from [Good Taste Theme](https://github.com/faelv/good-taste-theme).
+![VS Marketplace](https://vsmarketplacebadge.apphb.com/version-short/faelv.dark-taste-theme.svg)
+![installs](https://vsmarketplacebadge.apphb.com/installs-short/faelv.dark-taste-theme.svg)
+![downloads](https://vsmarketplacebadge.apphb.com/downloads-short/faelv.dark-taste-theme.svg)
 
-Supported languages:
-- PHP
-- SQL
-- JavaScript
-- JSON
-- JavaScript React / JSX
-- TypeScript
-- HTML
-- Pug
-- CSS
-- Sass / SCSS
-- Go
+A dark theme with focus on low contrast ratios and warm dark gray backgrounds. Forked from [Good Taste Theme](https://marketplace.visualstudio.com/items?itemName=faelv.good-taste-theme), the original light variant.
+
+*I hope you like it. Feedback is welcome!*
 
 ![Window Sample](./images/sample-window.png)
 
 To install type `ext install faelv.dark-taste-theme` in VS Code's Quick Open (Ctrl+P) and hit Enter, or search for Dark
 Taste Theme.
 
-Font is [**Fira Mono**](https://mozilla.github.io/Fira/)
+> ## Supported languages:
 
-## PHP
+- **PHP**
+- **SQL**
+- **JavaScript**
+- **JSON**
+- **JavaScript React / JSX**
+- **TypeScript**
+- **HTML**
+- **Pug**
+- **CSS**
+- **Sass / SCSS**
+- **Go**
+
+> ## Screenshots
+
+### PHP
 
 ![PHP Sample](./images/sample-php.png)
-
-## JS
+___
+### JS
 
 ![JS Sample](./images/sample-js.png)
-
-## JSX / React
+___
+### JSX / React
 
 ![JSX Sample](./images/sample-jsx.png)
+___
 
-**I hope you like it**
+**Font used: [Fira Mono](https://mozilla.github.io/Fira/)**

@@ -10,6 +10,7 @@
 		"editorLineNumber.activeForeground": "#d7d6d577",
 		"editorIndentGuide.activeBackground": "#d7d6d533",
 		"editor.lineHighlightBackground": "#1a1918",
+		"editor.selectionBackground": "#d5d6d755",
 		"statusBar.background": "#1a1918",
 		"statusBar.noFolderBackground": "#1a1918",
 		"statusBar.debuggingBackground": "#b12c2c",
@@ -66,7 +67,7 @@
 				"token.info-token"
 			],
 			"settings": {
-				"foreground":"#527ecc",
+				"foreground": "#527ecc",
 				"fontStyle": ""
 			}
 		},
@@ -332,7 +333,7 @@
 				"string.quoted.single.sql"
 			],
 			"settings": {
-				"foreground": "#60a060",
+				"foreground": "#68a14e",
 				"fontStyle": ""
 			}
 		},
@@ -343,7 +344,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#60a060"
+				"foreground": "#68a14e"
 			}
 		},
 		{
@@ -448,7 +449,6 @@
 		{
 			"name": "GrayBold",
 			"scope": [
-
 				"keyword.other.documentation"
 			],
 			"settings": {
