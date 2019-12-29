@@ -1,6 +1,6 @@
 # Dark Taste Theme
 
-![VS Marketplace](https://vsmarketplacebadge.apphb.com/version-short/faelv.dark-taste-theme.svg)
+[![VS Marketplace](https://vsmarketplacebadge.apphb.com/version-short/faelv.dark-taste-theme.svg)](https://marketplace.visualstudio.com/items?itemName=faelv.dark-taste-theme)
 ![installs](https://vsmarketplacebadge.apphb.com/installs-short/faelv.dark-taste-theme.svg)
 ![downloads](https://vsmarketplacebadge.apphb.com/downloads-short/faelv.dark-taste-theme.svg)
 

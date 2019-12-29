@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.4]
+- Adjusted contrast for entities in white and bold due to VSCode new anti aliasing
+- Proper color for functions assigned to object literals (JS)
+
 ## [1.0.3]
 - Adjusted selection background color
 - Adjusted contrast for entities in dark green

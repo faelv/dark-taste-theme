@@ -210,7 +210,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#bcbbba"
+				"foreground": "#c9c8c7"
 			}
 		},
 		{
@@ -322,6 +322,7 @@
 			"name": "GreenNormal",
 			"scope": [
 				"meta.object-literal.key",
+				"meta.object-literal.key entity.name.function",
 				"variable.other.property",
 				"variable.object.property",
 				"entity.other.attribute-name",
