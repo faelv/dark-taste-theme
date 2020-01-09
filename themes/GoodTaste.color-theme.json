@@ -119,7 +119,8 @@
 				"entity.name.function.go",
 				"entity.name.type.go",
 				"variable.scss",
-				"sql.named-parameter"
+				"sql.named-parameter",
+				"support.function.magic.python"
 			],
 			"settings": {
 				"fontStyle": "bold"
@@ -129,6 +130,7 @@
 			"name": "NoneItalic",
 			"scope": [
 				"constant.language.php",
+				"constant.language.python",
 				"string.regexp.js constant.character.numeric.regexp",
 				"meta.decorator",
 				"source.js constant.language",
@@ -287,7 +289,8 @@
 				"meta.tag.sgml.doctype.xml",
 				"keyword.other.doctype.xml",
 				"meta.tag.sgml.doctype.html",
-				"variable.language.documentroot.xml"
+				"variable.language.documentroot.xml",
+				"keyword.operator.logical.python"
 			],
 			"settings": {
 				"foreground": "#689fbb",
@@ -331,7 +334,8 @@
 				"support.variable.property.dom.js",
 				"variable.other.constant.property.js",
 				"variable.other.constant.object.property.js",
-				"string.quoted.single.sql"
+				"string.quoted.single.sql",
+				"constant.other.caps.python"
 			],
 			"settings": {
 				"foreground": "#68a14e",
@@ -363,7 +367,8 @@
 				"storage.type.rune.go",
 				"storage.type.string.go",
 				"storage.type.uintptr.go",
-				"entity.other.attribute-name.js"
+				"entity.other.attribute-name.js",
+				"variable.parameter.function-call.python"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -386,6 +391,7 @@
 				"keyword.other.phpdoc.php",
 				"meta.other.type.phpdoc.php",
 				"storage.type.class.jsdoc",
+				"keyword.codetag.notation.python"
 			],
 			"settings": {
 				"foreground": "#8b8686",
@@ -402,7 +408,8 @@
 				"meta.parameter.object-binding-pattern.js punctuation",
 				"punctuation.section.embedded.begin.js",
 				"punctuation.section.embedded.end.js",
-				"meta.other.type.phpdoc.php keyword.other.type.php"
+				"meta.other.type.phpdoc.php keyword.other.type.php",
+				"source.python string.quoted.docstring"
 			],
 			"settings": {
 				"foreground": "#8b8686",
@@ -414,7 +421,8 @@
 			"scope": [
 				"string.quoted.other.backtick.sql",
 				"constant.other.placeholder.go",
-				"meta.template.expression"
+				"meta.template.expression",
+				"constant.character.format.placeholder.other.python",
 			],
 			"settings": {
 				"foreground": "#967c55",
@@ -440,7 +448,9 @@
 				"support.variable.object.node.js",
 				"support.type.object.module.js",
 				"source.ts keyword.operator.expression",
-				"source.tsx keyword.operator.expression"
+				"source.tsx keyword.operator.expression",
+				"support.variable.magic.python",
+				"support.type.python"
 			],
 			"settings": {
 				"foreground": "#cc9ecb",
@@ -582,7 +592,8 @@
 				"meta.decorator variable",
 				"meta.decorator meta.function-call.js entity.name.function.js",
 				"meta.decorator meta.function-call.ts entity.name.function.ts",
-				"meta.decorator meta.function-call.tsx entity.name.function.tsx"
+				"meta.decorator meta.function-call.tsx entity.name.function.tsx",
+				"entity.name.function.decorator.python"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -609,6 +620,17 @@
 			"settings": {
 				"foreground": "#f7818b",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "AlternativeForeground",
+			"scope": [
+				"source.python variable.language.special",
+				"source.python variable.parameter.function.language.special"
+			],
+			"settings": {
+				"foreground": "#dddcb7",
+				"fontStyle": ""
 			}
 		}
 	]
