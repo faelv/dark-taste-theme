@@ -17,6 +17,7 @@ Taste Theme.
 
 - **PHP**
 - **SQL**
+- **Python**
 - **JavaScript**
 - **JSON**
 - **JavaScript React / JSX**
@@ -41,5 +42,10 @@ ___
 
 ![JSX Sample](./images/sample-jsx.png)
 ___
+### Python
+
+![Python Sample](./images/sample-python.png)
+___
+
 
 **Font used: [Fira Mono](https://mozilla.github.io/Fira/)**

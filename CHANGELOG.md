@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.0]
+- Better Python support
+
 ## [1.0.4]
 - Adjusted contrast for entities in white and bold due to VSCode new anti aliasing
 - Proper color for functions assigned to object literals (JS)
