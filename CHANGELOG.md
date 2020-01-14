@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.1]
+- Fixes for constants in JS(X), TS(X) and Python
+
 ## [1.1.0]
 - Better Python support
 

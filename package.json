@@ -2,7 +2,7 @@
     "name": "dark-taste-theme",
     "displayName": "Dark Taste Theme",
     "description": "A dark theme for those with a good taste",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "faelv",
     "icon": "icon.png",
     "galleryBanner": {
@@ -24,7 +24,7 @@
         "Themes"
     ],
     "keywords": [
-        "dark", "theme", "php", "javascript", "go", "html", "react"
+        "dark", "theme", "php", "javascript", "go", "html", "react", "python"
     ],
     "contributes": {
         "themes": [
