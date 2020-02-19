@@ -1,51 +1,58 @@
 # Dark Taste Theme
 
-[![VS Marketplace](https://vsmarketplacebadge.apphb.com/version-short/faelv.dark-taste-theme.svg)](https://marketplace.visualstudio.com/items?itemName=faelv.dark-taste-theme)
-![installs](https://vsmarketplacebadge.apphb.com/installs-short/faelv.dark-taste-theme.svg)
-![downloads](https://vsmarketplacebadge.apphb.com/downloads-short/faelv.dark-taste-theme.svg)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/faelv.dark-taste-theme?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=faelv.dark-taste-theme)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/faelv.dark-taste-theme?style=flat-square)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/faelv.dark-taste-theme?style=flat-square)
+[![GitHub issues](https://img.shields.io/github/issues/faelv/dark-taste-theme?style=flat-square)](https://github.com/faelv/dark-taste-theme/issues)
+[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N4DV9LK8JQA38&source=url)
 
-A dark theme with focus on low contrast ratios and warm dark gray backgrounds. Forked from [Good Taste Theme](https://marketplace.visualstudio.com/items?itemName=faelv.good-taste-theme), the original light variant.
-
-*I hope you like it. Feedback is welcome!*
+A dark theme focusing on low contrast ratio and warm, dark gray backgrounds.
+Better suitable for dark environments.
 
 ![Window Sample](./images/sample-window.png)
 
-To install type `ext install faelv.dark-taste-theme` in VS Code's Quick Open (Ctrl+P) and hit Enter, or search for Dark
-Taste Theme.
+I hope you like it. Feedback is welcome!
 
-> ## Supported languages:
+Light version: [**Good Taste Theme**](https://marketplace.visualstudio.com/items?itemName=faelv.good-taste-theme)
 
-- **PHP**
-- **SQL**
-- **Python**
-- **JavaScript**
-- **JSON**
-- **JavaScript React / JSX**
-- **TypeScript**
-- **HTML**
-- **Pug**
+Font used: [**Fira Mono**](https://mozilla.github.io/Fira/)
+
+## Supported languages:
+
 - **CSS**
-- **Sass / SCSS**
 - **Go**
+- **HTML**
+- **JavaScript ( +React )**
+- **JSON**
+- **PHP**
+- **Python**
+- **Pug**
+- **Sass / SCSS**
+- **SQL**
+- **TypeScript ( +React )**
 
-> ## Screenshots
+Other languages may work too, even without specific support.
+
+## Screenshots:
+
+### Python
+
+![Python Sample](./images/sample-python.png)
+
+### JS
+
+![JS Sample](./images/sample-js.png)
+
+### JSX / React
+
+![JSX Sample](./images/sample-jsx.png)
 
 ### PHP
 
 ![PHP Sample](./images/sample-php.png)
-___
-### JS
 
-![JS Sample](./images/sample-js.png)
-___
-### JSX / React
+## Support
 
-![JSX Sample](./images/sample-jsx.png)
-___
-### Python
+If something isn't working open an issue [here](https://github.com/faelv/dark-taste-theme/issues).
 
-![Python Sample](./images/sample-python.png)
-___
-
-
-**Font used: [Fira Mono](https://mozilla.github.io/Fira/)**
+Usually no one bothers to do it, but if you liked this extension consider leaving a rating and/or review, it means a lot to me.

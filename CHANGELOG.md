@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.3]
+- Fix for PHP's heredoc and nowdoc
+- Fix for PHP's complex curly syntax
+
 ## [1.1.2]
 - Fix for JSDoc
 - Fixes for JS(X) and TS(X) in and of operators
