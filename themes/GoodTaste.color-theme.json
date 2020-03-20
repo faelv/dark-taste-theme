@@ -1,6 +1,7 @@
 {
 	"name": "Dark Taste",
 	"type": "dark",
+	"semanticHighlighting": false,
 	"colors": {
 		"foreground": "#cdcccb",
 		"editor.background": "#1e1d1c",
