@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.4]
+- Disabled semantic highlighting
+
 ## [1.1.3]
 - Fix for PHP's heredoc and nowdoc
 - Fix for PHP's complex curly syntax
