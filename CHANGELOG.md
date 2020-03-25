@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.5]
+- Fix for constants in PHP
+
 ## [1.1.4]
 - Disabled semantic highlighting
 
