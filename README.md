@@ -4,7 +4,7 @@
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/faelv.dark-taste-theme?style=flat-square)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/faelv.dark-taste-theme?style=flat-square)
 [![GitHub issues](https://img.shields.io/github/issues/faelv/dark-taste-theme?style=flat-square)](https://github.com/faelv/dark-taste-theme/issues)
-[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N4DV9LK8JQA38&source=url)
+[![Donate PayPal](https://img.shields.io/badge/Donate%20%241-PayPal-blue?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N4DV9LK8JQA38&source=url)
 
 A dark theme focusing on low contrast ratio and warm, dark gray backgrounds.
 Better suitable for dark environments.
@@ -19,6 +19,7 @@ Font used: [**Fira Mono**](https://mozilla.github.io/Fira/)
 
 ## Supported languages:
 
+- **C#**
 - **CSS**
 - **Go**
 - **HTML**
