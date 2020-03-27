@@ -110,7 +110,8 @@
 				"entity.name.type.interface.php",
 				"entity.name.type.trait.php",
 				"entity.name.function.cs",
-				"entity.name.type.class.cs"
+				"entity.name.type.class.cs",
+				"entity.name.type.alias.cs"
 			],
 			"settings": {
 				"fontStyle": ""
@@ -590,7 +591,9 @@
 				"entity.name.tag.css",
 				"entity.name.tag.wildcard.css",
 				"text.pug storage",
-				"punctuation.definition.string.php"
+				"punctuation.definition.string.php",
+				"meta.preprocessor.cs",
+				"meta.preprocessor.cs keyword.preprocessor"
 			],
 			"settings": {
 				"foreground": "#d35555",
