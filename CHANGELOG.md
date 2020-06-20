@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2.1]
+- Updated README
+
 ## [1.2.0]
 - Fix for regex strings in PHP
 - Fix for C# preprocessors
