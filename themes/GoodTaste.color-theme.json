@@ -58,8 +58,10 @@
 		"editorBracketMatch.background": "#d7d6d511",
 		"minimap.selectionHighlight": "#cdcccb",
 		"descriptionForeground": "#cdcccb",
-		"statusBarItem.remoteBackground": "#d1cfcb33"
-		//"editorSuggestWidget.highlightForeground": "#689fbb",
+		"statusBarItem.remoteBackground": "#d1cfcb33",
+		"editorSuggestWidget.highlightForeground": "#b49103",
+    "list.highlightForeground": "#b49103",
+    "pickerGroup.foreground": "#b49103"
 	},
 	"tokenColors": [
 		{
