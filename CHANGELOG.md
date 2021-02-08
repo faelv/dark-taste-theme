@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2.2]
+- Changes some editor highlight colors
+
 ## [1.2.1]
 - Updated README
 
