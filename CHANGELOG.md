@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2.3]
+- Fixes parameter typehint in PHP
+
 ## [1.2.2]
 - Changes some editor highlight colors
 
