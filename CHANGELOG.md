@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.4]
+- Adds highlight colors to html entities
+- Fixes some support functions in PHP
+
 ## [1.2.3]
 - Fixes parameter typehint in PHP
 
