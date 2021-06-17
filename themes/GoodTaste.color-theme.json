@@ -626,7 +626,8 @@
 			"scope": [
 				"keyword.operator.math.sql",
 				"source.sql constant.numeric",
-				"constant.numeric"
+				"constant.numeric",
+				"text.html constant.character.entity"
 			],
 			"settings": {
 				"foreground": "#f7818b",
