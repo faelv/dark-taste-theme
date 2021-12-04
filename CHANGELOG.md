@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2.5]
+- Fixes PHP clone keyword
+
 ## [1.2.4]
 - Adds highlight colors to html entities
 - Fixes some support functions in PHP
