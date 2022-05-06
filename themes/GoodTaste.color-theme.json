@@ -61,7 +61,14 @@
 		"statusBarItem.remoteBackground": "#d1cfcb33",
 		"editorSuggestWidget.highlightForeground": "#b49103",
     "list.highlightForeground": "#b49103",
-    "pickerGroup.foreground": "#b49103"
+    "pickerGroup.foreground": "#b49103",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff2b3d",
+		"editorBracketHighlight.foreground1": "#d7d6d5",
+		"editorBracketHighlight.foreground2": "#f2f541",
+		"editorBracketHighlight.foreground3": "#9bfc4d",
+		"editorBracketHighlight.foreground4": "#28ffbf",
+		"editorBracketHighlight.foreground5": "#87bbff",
+		"editorBracketHighlight.foreground6": "#ff28bf",
 	},
 	"tokenColors": [
 		{
